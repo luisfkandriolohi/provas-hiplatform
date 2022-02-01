@@ -1,3 +1,5 @@
-# provas-hiplatform
+## Hi Platform Desafio de Frontend
 
-#execute git clone or download zip
+- cada pasta contém uma prova do plano de capacitação
+- use o git clone para clonar esse repositório em sua máquina
+- ou baixe e extraia o arquivo.zip
